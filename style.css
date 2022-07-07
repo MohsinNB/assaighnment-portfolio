@@ -33,3 +33,50 @@ h1{
     border-radius: 5px;
 }
 
+
+.part-2{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+}
+.TK{
+    margin: 20px;
+    width: 120px;
+    height: 100px;
+    font-weight: 700;
+    color: rgb(90, 89, 89);
+    border: 1px solid rgb(241, 240, 240);
+    background-color: rgb(241, 240, 240);
+    font-size: 30px;
+    
+}
+#color-button{
+    border: 3px solid deeppink;
+    background-color: rgb(255, 208, 223);
+}
+.part-2 input{
+    border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: groove;
+        background-color: #eee;
+        width: 86%;
+        padding: 15px 0;
+        font-size: 20px;
+        text-align: center;
+        display: block;
+        margin-bottom: 50px;
+        margin: 0 auto 50px;
+}
+.part-2 a{
+    text-decoration: none;
+    border: 1px solid rgb(231, 42, 80);
+    color: white;
+    padding: 13px 25px;
+    background-color: rgb(231, 42, 80);
+    border-radius: 5px;
+  
+}
+
+
