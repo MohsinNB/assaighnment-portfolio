@@ -79,4 +79,35 @@ h1{
   
 }
 
+.part-3{
+    padding: 100px 160px;
+}
+.part-3-up{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.flex-content{
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    width: 30%;
+    border: 1px solid rgb(175, 198, 241);
+    padding: 40px;
+    background-color: rgb(175, 198, 241);
+    margin-right: 30px;
+}
+#content-2{
+    border: 1px solid rgb(255, 208, 223);
+    padding: 40px;
+    background-color: rgb(255, 208, 223);
+}
+#content-3{
+    border: 1px solid cornsilk;
+    padding: 40px;
+    background-color: cornsilk;
+}
+
 
